@@ -6,6 +6,6 @@ zkSNARK: A zkSNARK (zero-knowledge succinct non-interactive argument of knowledg
 
 zkSTARK: A zkSTARK (zero-knowledge scalable transparent argument of knowledge) is a type of zero-knowledge proof that is designed to be more scalable and transparent than zkSNARKs. zkSTARKs use a different approach to generating proofs that allows them to be verified more efficiently than zkSNARKs, but they are currently more difficult to generate.
 
-PLONK: PLONK (Permutations over Lagrange-bases for OecNology with Kate-polynomials) is a specific zkSNARK construction that is optimized for use in blockchain and other decentralized applications. It is designed to be faster and more efficient than other zkSNARK constructions, and has been used in several blockchain projects.
+PLONK: PLONK (Permutations over Lagrange-bases for Oecumenical Noninteractive arguments of Knowledge) is a specific zkSNARK construction that is optimized for use in blockchain and other decentralized applications. It is designed to be faster and more efficient than other zkSNARK constructions, and has been used in several blockchain projects.
 
 In summary, all of these terms refer to different types of zero-knowledge proofs, each with their own advantages and disadvantages. The choice of which type of zero-knowledge proof to use will depend on the specific application and the trade-offs between efficiency, scalability, and security.
