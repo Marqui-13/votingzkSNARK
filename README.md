@@ -15,7 +15,7 @@ Before interacting with these contracts, ensure you have:
 
 ### Clone this repository to start working with the zkSNARK voting system:
 
-git clone https://github.com/yourusername/zkSNARK-voting-system.git
+git clone https://github.com/Marqui-13/zkSNARK-voting-system.git
 
 ### Navigate to the cloned directory and install the necessary dependencies:
 
